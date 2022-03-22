@@ -1,6 +1,6 @@
 Package.describe({
     name: 'jhunlouiegonzales:biz-push',
-    version: '0.0.1',
+    version: '0.0.2',
     summary: 'Browser push notification using FCM api',
     git: 'https://github.com/junlouiegonzales/biz-push',
     documentation: 'README.md',
